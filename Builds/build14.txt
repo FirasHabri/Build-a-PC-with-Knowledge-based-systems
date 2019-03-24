@@ -1,0 +1,6 @@
+usage:Gaming
+name:Y710 Cube
+CPU:Intel Core i5-8600
+GPU:GeForce GTX 1080
+Motherboard:MSI Gaming Intel Skylake
+Hard Drive:1TB

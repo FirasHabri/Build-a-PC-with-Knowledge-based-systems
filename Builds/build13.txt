@@ -1,0 +1,6 @@
+usage:Internet
+name:Threadripper
+CPU:Intel Core i7-8700
+GPU:GeForce GTX 1060
+Motherboard:GIGABYTE X470
+Hard Drive:8TB

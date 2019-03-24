@@ -1,0 +1,6 @@
+usage:Education
+name:Falcon
+CPU:Intel Core i5-8600
+GPU:GeForce GTX 1050
+Motherboard:GIGABYTE X470
+Hard Drive:2TB

@@ -1,0 +1,6 @@
+usage:Gaming
+name:Cyberpower
+CPU:Intel Core i9-7960X
+GPU:GeForce GTX 1080
+Motherboard:GIGABYTE X470
+Hard Drive:8TB

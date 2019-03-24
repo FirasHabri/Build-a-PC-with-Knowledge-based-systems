@@ -1,0 +1,6 @@
+usage:Education
+name:SkyTech
+CPU:Intel Core i9-7960X
+GPU:GeForce GTX 1080
+Motherboard:ASUS ROG Crosshair VII Hero
+Hard Drive:8TB

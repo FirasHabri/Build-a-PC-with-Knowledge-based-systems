@@ -1,0 +1,6 @@
+usage:Gaming
+name:Gamer Master
+CPU:Intel Core i3-8100
+GPU:GeForce GTX 1050
+Motherboard:GIGABYTE AB350M-DS3H
+Hard Drive:500GB

@@ -1,0 +1,6 @@
+usage:Gaming
+name:Black Out
+CPU:Intel Core i5-8600
+GPU:GeForce GTX 1060
+Motherboard:GIGABYTE H370M DS3H
+Hard Drive:2TB

@@ -1,0 +1,6 @@
+usage:Internet
+name:Velocity
+CPU:Intel Core i3-8100
+GPU:GeForce GTX 1050
+Motherboard:MSI Pro Series Intel B250
+Hard Drive:4TB

@@ -1,0 +1,4 @@
+GeForce GTX 1050:150
+GeForce GTX 1060:300
+GeForce GTX 1070:500
+GeForce GTX 1080:700

@@ -1,0 +1,4 @@
+Intel Core i3-8100:120
+Intel Core i5-8600:240
+Intel Core i7-8700:280
+Intel Core i9-7960X:1550

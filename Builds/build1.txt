@@ -1,0 +1,6 @@
+usage:Gaming
+name:Gaming Rig
+CPU:Intel Core i7-8700
+GPU:GeForce GTX 1080
+Motherboard:MSI Pro Series Intel B250
+Hard Drive:4TB

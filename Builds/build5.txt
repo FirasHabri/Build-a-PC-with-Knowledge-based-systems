@@ -1,0 +1,6 @@
+usage:Internet
+name:Casper
+CPU:Intel Core i3-8100
+GPU:GeForce GTX 1050
+Motherboard:GIGABYTE H370M DS3H
+Hard Drive:1TB

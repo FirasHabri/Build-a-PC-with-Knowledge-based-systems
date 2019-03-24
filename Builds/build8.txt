@@ -1,0 +1,6 @@
+usage:Education
+name:ArchAngel
+CPU:Intel Core i5-8600
+GPU:GeForce GTX 1060
+Motherboard:GIGABYTE AB350M-DS3H
+Hard Drive:4TB
